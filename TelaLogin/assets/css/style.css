@@ -1,0 +1,18 @@
+h6 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.btn {
+    background-color: rgb(112, 230, 112);
+    border-color: black;
+}
+
+a {
+    color: black;
+}
+
